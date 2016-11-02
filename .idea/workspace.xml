@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a20508aa-7a2f-4f3c-b812-0fa54f17c8e5" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/Animated3DBarChart/css/demo.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/Animated3DBarChart/css/graph.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/Animated3DBarChart/css/normalize.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/Animated3DBarChart/img/ImageAttribution.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/Animated3DBarChart/img/bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/Animated3DBarChart/img/rainbow.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/Animated3DBarChart/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/Animated3DBarChart/js/modernizr.custom.04022.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/AnimatedBorderMenus/AnimatedBorderMenus/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/AnimatedBorderMenus/AnimatedBorderMenus/css/demo.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/AnimatedBorderMenus/AnimatedBorderMenus/css/icons.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/AnimatedBorderMenus/AnimatedBorderMenus/css/normalize.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/AnimatedBorderMenus/AnimatedBorderMenus/css/style1.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/AnimatedBorderMenus/AnimatedBorderMenus/css/style2.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/AnimatedBorderMenus/AnimatedBorderMenus/css/style3.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/AnimatedBorderMenus/AnimatedBorderMenus/css/style4.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/AnimatedBorderMenus/AnimatedBorderMenus/css/style5.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/AnimatedBorderMenus/AnimatedBorderMenus/css/style6.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/AnimatedBorderMenus/AnimatedBorderMenus/fonts/codropsicons/codropsicons.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/AnimatedBorderMenus/AnimatedBorderMenus/fonts/codropsicons/codropsicons.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/AnimatedBorderMenus/AnimatedBorderMenus/fonts/codropsicons/codropsicons.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/AnimatedBorderMenus/AnimatedBorderMenus/fonts/codropsicons/codropsicons.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/AnimatedBorderMenus/AnimatedBorderMenus/fonts/codropsicons/license.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/AnimatedBorderMenus/AnimatedBorderMenus/fonts/demoicons/FontAwesome.dev.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/AnimatedBorderMenus/AnimatedBorderMenus/fonts/demoicons/FontAwesome.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/AnimatedBorderMenus/AnimatedBorderMenus/fonts/demoicons/FontAwesome.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/AnimatedBorderMenus/AnimatedBorderMenus/fonts/demoicons/FontAwesome.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/AnimatedBorderMenus/AnimatedBorderMenus/fonts/demoicons/FontAwesome.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/AnimatedBorderMenus/AnimatedBorderMenus/fonts/demoicons/license.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/AnimatedBorderMenus/AnimatedBorderMenus/fonts/demoicons/minicons-webalys.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/AnimatedBorderMenus/AnimatedBorderMenus/fonts/demoicons/minicons-webalys.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/AnimatedBorderMenus/AnimatedBorderMenus/fonts/demoicons/minicons-webalys.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/AnimatedBorderMenus/AnimatedBorderMenus/fonts/demoicons/minicons-webalys.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/AnimatedBorderMenus/AnimatedBorderMenus/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/AnimatedBorderMenus/AnimatedBorderMenus/index2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/AnimatedBorderMenus/AnimatedBorderMenus/index3.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/AnimatedBorderMenus/AnimatedBorderMenus/index4.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/AnimatedBorderMenus/AnimatedBorderMenus/index5.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/AnimatedBorderMenus/AnimatedBorderMenus/index6.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/AnimatedBorderMenus/AnimatedBorderMenus/js/borderMenu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/AnimatedBorderMenus/AnimatedBorderMenus/js/classie.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/AnimatedBorderMenus/AnimatedBorderMenus/js/modernizr.custom.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/AppShowcase/AppShowcase/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/AppShowcase/AppShowcase/css/component.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/AppShowcase/AppShowcase/css/component2.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/AppShowcase/AppShowcase/css/component3.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/AppShowcase/AppShowcase/css/default.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/AppShowcase/AppShowcase/images/iPhone.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/AppShowcase/AppShowcase/images/screen1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/AppShowcase/AppShowcase/images/screen2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/AppShowcase/AppShowcase/images/screen3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/AppShowcase/AppShowcase/images/screen4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/AppShowcase/AppShowcase/images/screen5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/AppShowcase/AppShowcase/images/screen6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/AppShowcase/AppShowcase/images/screen7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/AppShowcase/AppShowcase/images/screen8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/AppShowcase/AppShowcase/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/AppShowcase/AppShowcase/index2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/AppShowcase/AppShowcase/index3.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/AppShowcase/AppShowcase/js/appshowcase.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/AppShowcase/AppShowcase/js/appshowcase_3.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/AppShowcase/AppShowcase/js/modernizr.custom.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/BasicReadyToUseCSSStyles/BasicReadyToUseCSSStyles/README.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/BasicReadyToUseCSSStyles/BasicReadyToUseCSSStyles/css/demo.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/BasicReadyToUseCSSStyles/BasicReadyToUseCSSStyles/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/BasicReadyToUseCSSStyles/BasicReadyToUseCSSStyles/images/bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/BasicReadyToUseCSSStyles/BasicReadyToUseCSSStyles/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/BasicReadyToUseCSSStyles/BasicReadyToUseCSSStyles/js/html5shiv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/BookBlock/BookBlock/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/BookBlock/BookBlock/css/bookblock.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/BookBlock/BookBlock/css/calendar.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/BookBlock/BookBlock/css/default.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/BookBlock/BookBlock/css/demo1.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/BookBlock/BookBlock/css/demo2.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/BookBlock/BookBlock/css/demo3.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/BookBlock/BookBlock/css/demo4.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/BookBlock/BookBlock/css/demo5.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/BookBlock/BookBlock/fonts/arrows/arrows.dev.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/BookBlock/BookBlock/fonts/arrows/arrows.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/BookBlock/BookBlock/fonts/arrows/arrows.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/BookBlock/BookBlock/fonts/arrows/arrows.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/BookBlock/BookBlock/fonts/arrows/arrows.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/BookBlock/BookBlock/fonts/arrows/license.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/BookBlock/BookBlock/fonts/codropsicons/codropsicons.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/BookBlock/BookBlock/fonts/codropsicons/codropsicons.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/BookBlock/BookBlock/fonts/codropsicons/codropsicons.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/BookBlock/BookBlock/fonts/codropsicons/codropsicons.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/BookBlock/BookBlock/fonts/codropsicons/license.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/BookBlock/BookBlock/images/demo1/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/BookBlock/BookBlock/images/demo1/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/BookBlock/BookBlock/images/demo1/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/BookBlock/BookBlock/images/demo1/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/BookBlock/BookBlock/images/demo1/5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/BookBlock/BookBlock/images/demo2/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/BookBlock/BookBlock/images/demo2/10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/BookBlock/BookBlock/images/demo2/11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/BookBlock/BookBlock/images/demo2/12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/BookBlock/BookBlock/images/demo2/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/BookBlock/BookBlock/images/demo2/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/BookBlock/BookBlock/images/demo2/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/BookBlock/BookBlock/images/demo2/5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/BookBlock/BookBlock/images/demo2/6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/BookBlock/BookBlock/images/demo2/7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/BookBlock/BookBlock/images/demo2/8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/BookBlock/BookBlock/images/demo2/9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/BookBlock/BookBlock/images/demo3/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/BookBlock/BookBlock/images/demo3/10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/BookBlock/BookBlock/images/demo3/11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/BookBlock/BookBlock/images/demo3/12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/BookBlock/BookBlock/images/demo3/13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/BookBlock/BookBlock/images/demo3/14.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/BookBlock/BookBlock/images/demo3/15.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/BookBlock/BookBlock/images/demo3/16.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/BookBlock/BookBlock/images/demo3/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/BookBlock/BookBlock/images/demo3/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/BookBlock/BookBlock/images/demo3/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/BookBlock/BookBlock/images/demo3/5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/BookBlock/BookBlock/images/demo3/6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/BookBlock/BookBlock/images/demo3/7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/BookBlock/BookBlock/images/demo3/8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/BookBlock/BookBlock/images/demo3/9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/BookBlock/BookBlock/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/BookBlock/BookBlock/index2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/BookBlock/BookBlock/index3.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/BookBlock/BookBlock/index4.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/BookBlock/BookBlock/index5.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/BookBlock/BookBlock/js/bookblock.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/BookBlock/BookBlock/js/bookblock.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/BookBlock/BookBlock/js/jquery.bookblock.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/BookBlock/BookBlock/js/jquery.bookblock.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/BookBlock/BookBlock/js/jquerypp.custom.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/BookBlock/BookBlock/js/modernizr.custom.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/CSS3BouncingBall/css/demo.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/CSS3BouncingBall/css/normalize.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/CSS3BouncingBall/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/CSS3BouncingBall/images/ImageAttribution.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/CSS3BouncingBall/images/bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/CSS3BouncingBall/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/CSS3BouncingBall/js/modernizr.custom.79639.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/CSSClickEvents/css/demo.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/CSSClickEvents/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/CSSClickEvents/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/CSSClickEvents/index2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/CSSClickEvents/index3.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/CSSClickEvents/index4.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/CSSClickEvents/js/modernizr.custom.63321.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/CSSClickEvents/readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/CSSClickEvents/四种CSS方式事件触发.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/HeaderEffects/HeaderEffects/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/HeaderEffects/HeaderEffects/css/component.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/HeaderEffects/HeaderEffects/css/normalize.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/HeaderEffects/HeaderEffects/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/HeaderEffects/HeaderEffects/js/modernizr.custom.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/HeaderEffects/HeaderEffects/js/waypoints.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/LetterEffects/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/LetterEffects/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/LetterEffects/css/decolines.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/LetterEffects/css/demo.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/LetterEffects/css/lettereffect.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/LetterEffects/css/normalize.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/LetterEffects/css/pater.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/LetterEffects/img/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/LetterEffects/img/10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/LetterEffects/img/11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/LetterEffects/img/12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/LetterEffects/img/13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/LetterEffects/img/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/LetterEffects/img/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/LetterEffects/img/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/LetterEffects/img/5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/LetterEffects/img/6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/LetterEffects/img/7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/LetterEffects/img/8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/LetterEffects/img/9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/LetterEffects/img/mouse.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/LetterEffects/img/related/AnimatedLetters.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/LetterEffects/img/related/LinkStyles.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/LetterEffects/img/sponsor/hired.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/LetterEffects/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/LetterEffects/js/anime.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/LetterEffects/js/charming.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/LetterEffects/js/imagesloaded.pkgd.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/LetterEffects/js/lineMaker.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/LetterEffects/js/textfx.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/NotificationStyles/各种类型的消息通知提示框.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/PagePreloadingEffect/PagePreloadingEffect/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/PagePreloadingEffect/PagePreloadingEffect/css/demo.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/PagePreloadingEffect/PagePreloadingEffect/css/effect1.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/PagePreloadingEffect/PagePreloadingEffect/css/effect2.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/PagePreloadingEffect/PagePreloadingEffect/css/normalize.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/PagePreloadingEffect/PagePreloadingEffect/fonts/blokk/BLOKKRegular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/PagePreloadingEffect/PagePreloadingEffect/fonts/blokk/BLOKKRegular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/PagePreloadingEffect/PagePreloadingEffect/fonts/blokk/BLOKKRegular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/PagePreloadingEffect/PagePreloadingEffect/fonts/blokk/BLOKKRegular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/PagePreloadingEffect/PagePreloadingEffect/fonts/codropsicons/codropsicons.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/PagePreloadingEffect/PagePreloadingEffect/fonts/codropsicons/codropsicons.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/PagePreloadingEffect/PagePreloadingEffect/fonts/codropsicons/codropsicons.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/PagePreloadingEffect/PagePreloadingEffect/fonts/codropsicons/codropsicons.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/PagePreloadingEffect/PagePreloadingEffect/fonts/codropsicons/license.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/PagePreloadingEffect/PagePreloadingEffect/fonts/feather/feather.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/PagePreloadingEffect/PagePreloadingEffect/fonts/feather/feather.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/PagePreloadingEffect/PagePreloadingEffect/fonts/feather/feather.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/PagePreloadingEffect/PagePreloadingEffect/fonts/feather/feather.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/PagePreloadingEffect/PagePreloadingEffect/img/browser.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/PagePreloadingEffect/PagePreloadingEffect/img/credits.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/PagePreloadingEffect/PagePreloadingEffect/img/relatedposts/ArticleIntroEffects.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/PagePreloadingEffect/PagePreloadingEffect/img/relatedposts/HeaderEffects.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/PagePreloadingEffect/PagePreloadingEffect/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/PagePreloadingEffect/PagePreloadingEffect/index2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/PagePreloadingEffect/PagePreloadingEffect/js/classie.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/PagePreloadingEffect/PagePreloadingEffect/js/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/PagePreloadingEffect/PagePreloadingEffect/js/modernizr.custom.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01-02-codrops/PagePreloadingEffect/PagePreloadingEffect/js/pathLoader.js" afterPath="" />
+    </list>
+    <ignored path="01-2ndMickle.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="01-2ndMickle" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/01-02-codrops/02-10-searchBar/ExpandingSearchBar/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.09876543">
+              <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+              <folding>
+                <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#form#0;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#script#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="txt" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/01-02-codrops/NotificationStyles/index.html" />
+        <option value="$PROJECT_DIR$/01-02-codrops/CSSClickEvents/readme.txt" />
+        <option value="$PROJECT_DIR$/01-02-codrops/NotificationStyles/growl-genie.html" />
+        <option value="$PROJECT_DIR$/01-02-codrops/NotificationStyles/growl-jelly.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1692" />
+    <option name="height" value="1026" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="01-2ndMickle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="01-2ndMickle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="01-2ndMickle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="01-2ndMickle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="01-2ndMickle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="01-02-codrops" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="01-2ndMickle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="01-2ndMickle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="01-02-codrops" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="02-10-searchBar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ExpandingSearchBar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="js-jscs-nodeInterpreter" value="D:\program\03-nodejs\node.exe" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a20508aa-7a2f-4f3c-b812-0fa54f17c8e5" name="Default" comment="" />
+      <created>1477963689184</created>
+      <option name="number" value="Default" />
+      <updated>1477963689184</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1692" height="1026" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2496977" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/01-02-codrops/NotificationStyles/growl-slide.html</url>
+          <line>85</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/01-01-designmodo/css3slider/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5121951">
+          <caret line="26" column="33" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-01-designmodo/css3slider/animation.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1784339">
+          <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-02-codrops/02-10-searchBar/ExpandingSearchBar/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.09876543">
+          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+          <folding>
+            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#form#0;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#script#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
