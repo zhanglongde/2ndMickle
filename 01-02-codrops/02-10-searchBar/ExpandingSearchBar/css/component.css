@@ -16,6 +16,7 @@
 	width: 0%;
 	min-width: 60px;
 	height: 60px;
+	/*有浮动+宽度渐变*/
 	float: right;
 	overflow: hidden;
 	-webkit-transition: width 0.3s;
