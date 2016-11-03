@@ -1,0 +1,173 @@
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset='UTF-8'>
+
+    <title>Expanding Boxes Nav</title>
+
+    <link rel='stylesheet' href='css/style.css'>
+
+    <style>
+        body {
+            background: #E6E2DF;
+        }
+        nav {
+            background: #444;
+            border-bottom: 8px solid #E6E2DF;
+            overflow: hidden;
+            position: relative;
+            width: 100%;
+        }
+        nav:after {
+            content: "";
+            position: absolute;
+            left: 0;
+            bottom: 0;
+            width: 100%;
+            height: 2px;
+            background: white;
+        }
+        nav ul {
+            background: -moz-linear-gradient(left,
+            #444 0%,
+            #444 50%,
+            #41d05f 100%);
+            background: -webkit-gradient(linear, left top, right top,
+            color-stop(0%,#444),
+            color-stop(50%,#444),
+            color-stop(50%,#41d05f),
+            color-stop(100%,#41d05f));
+            list-style: none;
+            overflow: hidden;
+            padding: 0 0 0 20px;
+            width: 810px;
+        }
+        nav li {
+            display: inline;
+        }
+        nav a {
+            color: white;
+            display: block;
+            float: left;
+            font-family: "myriad-pro-1","myriad-pro-2", HelveticaNeue, Helvetica, Arial, Sans-Serif;
+            font-size: 22px;
+            padding: 12px 0;
+            text-decoration: none;
+            text-align: center;
+            width: 19%;
+            -webkit-transition: width 0.12s ease;
+            -moz-transition: width 0.12s ease;
+            -o-transition: width 0.12s ease;
+            transition: width 0.12s ease;
+        }
+        nav a:hover {
+            color: white;
+        }
+        nav a:hover span {
+            border-bottom: 2px solid white;
+        }
+        nav .a-home {
+            background: #ff8400;
+            z-index: 100;
+            position: relative;
+        }
+        nav .a-forums {
+            background: #e42b2b;
+        }
+        nav .a-videos {
+            background: #a800ff;
+        }
+        nav .a-downloads {
+            background: #49a7f3;
+        }
+        nav .a-snippets {
+            background: #41d05f;
+        }
+        .home nav {
+            border-bottom-color: #ff8400;
+        }
+        .forums nav {
+            border-bottom-color: #e42b2b;
+        }
+        .videos nav {
+            border-bottom-color: #a800ff;
+        }
+        .downloads nav {
+            border-bottom-color: #49a7f3;
+        }
+        .snippets nav {
+            border-bottom-color: #41d05f;
+        }
+        nav li:hover a {
+            width: 24%;
+        }
+        nav ul:hover .active {
+            width: 19%;
+        }
+        nav ul:hover .active:hover {
+            width: 24%;
+        }
+        nav li a.active {
+            width: 24%;
+        }
+    </style>
+</head>
+
+<body class="home">
+
+<div id="demo-top-bar">
+
+    <div id="demo-bar-inside">
+
+        <h2 id="demo-bar-badge">
+            <a href="/">CSS-Tricks Example</a>
+        </h2>
+
+        <div id="demo-bar-buttons">
+        </div>
+
+    </div>
+
+</div>
+<div id="page-wrap">
+
+    <nav>
+
+        <ul>
+            <li>
+                <a class="a-home active" href="#">
+                    <span>Home</span>
+                </a>
+            </li>
+            <li>
+                <a class="a-forums" href="#">
+                    <span>Forums</span>
+                </a>
+            </li>
+            <li>
+                <a class="a-videos not-active" href="#">
+                    <span>Videos</span>
+                </a>
+            </li>
+            <li>
+                <a class="a-downloads" href="#">
+                    <span>Downloads</span>
+                </a>
+            </li>
+            <li>
+                <a class="a-snippets" href="#">
+                    <span>Snippets</span>
+                </a>
+            </li>
+        </ul>
+
+    </nav>
+
+</div>
+
+
+</body>
+
+</html>
