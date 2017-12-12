@@ -2,34 +2,124 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title>
+        分为三层
+        最上层为SVG同色背景  触发动画：transform: translateY(-200vh);
+        第二层SVG 不规则形状
+        最底层为内容曾
+
+    </title>
+    <style>
+        *{
+            margin:0;
+            padding:0;
+        }
+        body{
+            background-image: url(./img/bg1.jpg);
+        }
+        /* Color schemes */
+        body {
+            --color-text: #fff;
+            --color-link: #5f5f5f;
+            --color-link-hover: #ff963b;
+            --color-enter: #fff;
+            --color-title: #fff;
+            --color-subtitle: #5f5f5f;
+            --color-menu-item: #000;
+            --color-menu-item-hover: #ff963b;
+            --color-menu-item-hover-alt: #8544da;
+            --color-content: #222325;
+            --color-content-fixed: #ddd;
+            --font-alt: 200 6vw/1 'Spectral', serif;
+            --color-next: #5f5f5f;
+            --color-next-hover: #8544da;
+        }
+        html,body{
+            /*width:100%;*/
+            /*height:100%;*/
+        }
+        .content {
+            width: 100%;
+            height: 100vh;
+            position: relative;
+        }
+
+        .content--intro {
+            z-index: 100;
+            height: 200vh;
+        }
+        .content__inner {
+            width: 100%;
+            height: 100vh;
+            position: relative;
+            text-align: center;
+            display: flex;
+            flex-wrap: wrap;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }
+        .content--intro .content__inner {
+            background: var(--color-content);
+        }
+
+        .shape {
+            height: 100vh;
+            width: 100%;
+            display: block;
+            fill: var(--color-content);
+        }
+    </style>
 </head>
 <body>
-<svg class="shape" width="100%" height="100vh" preserveAspectRatio="none" viewBox="0 0 1440 800" xmlns:pathdata="http://www.codrops.com/">
-    <path d="M -44,-50 C -52.71,28.52 15.86,8.186 184,14.69 383.3,22.39 462.5,12.58 638,14 835.5,15.6 987,6.4 1194,13.86 1661,30.68 1652,-36.74 1582,-140.1 1512,-243.5 15.88,-589.5 -44,-50 Z" pathdata:id="M -44,-50 C -137.1,117.4 67.86,445.5 236,452 435.3,459.7 500.5,242.6 676,244 873.5,245.6 957,522.4 1154,594 1593,753.7 1793,226.3 1582,-126 1371,-478.3 219.8,-524.2 -44,-50 Z"></path>
-</svg>
+<div class="content content--intro">
+    <div class="content__inner">
+        <button id="btn">开始</button>
+        <svg class="shape" width="100%" height="100vh" preserveAspectRatio="none" viewBox="0 0 1440 800" xmlns:pathdata="http://www.codrops.com/">
+            <path d="M -44,-50 C -52.71,28.52 15.86,8.186 184,14.69 383.3,22.39 462.5,12.58 638,14 835.5,15.6 987,6.4 1194,13.86 1661,30.68 1652,-36.74 1582,-140.1 1512,-243.5 15.88,-589.5 -44,-50 Z" pathdata:id="M -44,-50 C -137.1,117.4 67.86,445.5 236,452 435.3,459.7 500.5,242.6 676,244 873.5,245.6 957,522.4 1154,594 1593,753.7 1793,226.3 1582,-126 1371,-478.3 219.8,-524.2 -44,-50 Z"></path>
+        </svg>
+    </div>
+</div>
+
 
 <script src="js/anime.min.js"></script>
 <script>
   const DOM = {};
+  DOM.intro = document.querySelector('.content--intro');
   DOM.shape = document.querySelector('svg.shape');
   DOM.path = DOM.shape.querySelector('path');
   DOM.shape.style.transformOrigin = '50% 0%';
 
-  anime({
-    targets: DOM.shape,
-    scaleY: [
-      {value:[0.8,1.8],duration: 550,easing: 'easeInQuad'},
-      {value:1,duration: 550,easing: 'easeOutQuad'}
-    ]
-  });
+  let loaded;
+  const navigate = () => {
+    if ( loaded ) return;
+    loaded = true;
 
-  anime({
-    targets: DOM.path,
-    duration: 1100,
-    easing: 'easeOutQuad',
-    d: DOM.path.getAttribute('pathdata:id')
-  });
+    anime({
+      targets: DOM.intro,
+      duration: 1100,
+      easing: 'easeInOutSine',
+      translateY: '-200vh'
+    });
+
+    anime({
+      targets: DOM.shape,
+      scaleY: [
+        {value:[0.8,1.8],duration: 550,easing: 'easeInQuad'},
+        {value:1,duration: 550,easing: 'easeOutQuad'}
+      ]
+    });
+
+    anime({
+      targets: DOM.path,
+      duration: 1100,
+      easing: 'easeOutQuad',
+      d: DOM.path.getAttribute('pathdata:id')
+    });
+  };
+
+  document.querySelector('#btn').addEventListener('click', navigate)
+
 </script>
 </body>
 </html>

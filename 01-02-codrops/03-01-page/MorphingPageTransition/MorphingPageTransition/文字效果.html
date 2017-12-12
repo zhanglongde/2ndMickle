@@ -2,9 +2,116 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>$Title$</title>
+    <title>Title</title>
+    <style>
+        body {
+            --color-text: #fff;
+            --color-link: #5f5f5f;
+            --color-link-hover: #ff963b;
+            --color-enter: #fff;
+            --color-title: #fff;
+            --color-subtitle: #5f5f5f;
+            --color-menu-item: #000;
+            --color-menu-item-hover: #ff963b;
+            --color-menu-item-hover-alt: #8544da;
+            --color-content: #222325;
+            --color-content-fixed: #ddd;
+            --font-alt: 200 6vw/1 'Spectral', serif;
+            --color-next: #5f5f5f;
+            --color-next-hover: #8544da;
+
+            background-color: #58a;
+        }
+        .enter, .explore {
+            margin: 6vh 0 0 0;
+            font-size: 1em;
+            letter-spacing: 3px;
+            cursor: pointer;
+            font-weight: bold;
+            white-space: pre;
+            color: var(--color-enter);
+            pointer-events: auto;
+        }
+
+        .enter:hover,
+        .enter:focus {
+            color: var(--color-enter);
+        }
+
+        .enter span {
+            display: inline-block;
+        }
+        .explore {
+            background: var(--color-subtitle);
+            color: var(--color-title);
+            padding: 0.5em 1em;
+        }
+
+    </style>
 </head>
 <body>
-$END$
+<a href="#" class="enter">enter</a>
+
+<script src="js/charming.min.js"></script>
+<script src="js/anime.min.js"></script>
+<script>
+  const DOM = {};
+  DOM.enter = document.querySelector('.enter');
+  charming(DOM.enter);
+  DOM.enterLetters = Array.from(DOM.enter.querySelectorAll('span'));
+
+  let isActive;
+  let enterTimeout;
+
+  const enterHoverInFn = () => enterTimeout = setTimeout(() => {
+    isActive = true;
+    anime.remove(DOM.enterLetters);
+    anime({
+      targets: DOM.enterLetters,
+      delay: (t,i) => i*15,
+      translateY: [
+        {value: 10, duration: 150, easing: 'easeInQuad'},
+        {value: [-10,0], duration: 150, easing: 'easeOutQuad'}
+      ],
+      opacity: [
+        {value: 0, duration: 150, easing: 'linear'},
+        {value: 1, duration: 150, easing: 'linear'}
+      ],
+      color: {
+        value: '#ff963b',
+        duration: 1,
+        delay: (t,i,l) => i*15+150
+      }
+    });
+  }, 50);
+
+  const enterHoverOutFn = () => {
+    clearTimeout(enterTimeout);
+    if( !isActive ) return;
+    isActive = false;
+
+    anime.remove(DOM.enterLetters);
+    anime({
+      targets: DOM.enterLetters,
+      delay: (t,i,l) => (l-i-1)*15,
+      translateY: [
+        {value: 10, duration: 150, easing: 'easeInQuad'},
+        {value: [-10,0], duration: 150, easing: 'easeOutQuad'}
+      ],
+      opacity: [
+        {value: 0, duration: 150, easing: 'linear'},
+        {value: 1, duration: 150, easing: 'linear'}
+      ],
+      color: {
+        value: '#ffffff',
+        duration: 1,
+        delay: (t,i,l) => (l-i-1)*15+150
+      }
+    });
+  };
+
+  DOM.enter.addEventListener('mouseenter', enterHoverInFn);
+  DOM.enter.addEventListener('mouseleave', enterHoverOutFn);
+</script>
 </body>
 </html>
